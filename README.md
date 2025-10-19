@@ -5,7 +5,7 @@ This repository contains an **n8n workflow** to automatically clean your Gmail S
 ## ✨ Features
 - Runs on a schedule (daily).
 - Fetches all emails in the **Spam** folder.
-- Deletes emails older than 7 (or 14) days.
+- Deletes emails older than 4 (you can change it as you want) days.
 
 ## 🚀 Usage
 1. Download the JSON file.
